@@ -1,7 +1,7 @@
 ---
 blocks:
   - tagline: lallaa
-    headline: Welcome to the Petra Jaworek
+    headline: Welcome to the Petdsjhdh
     text: >
       This project is set up to show you the basics of working with Tina. You're
       looking at the landing page, w
@@ -52,9 +52,9 @@ blocks:
         text: Vestibulum ante ipsum primis in faucibus orci luctus et ultrices.
     color: primary
     _template: features
-  - quote: wgewgwgwegewgew
+  - quote: wgewgwgwegewgew wwqfwqfwqfwq
     author: Phil Karltongewgew
-    color: tint
+    color: default
     _template: testimonial
 ---
 
