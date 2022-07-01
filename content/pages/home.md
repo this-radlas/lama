@@ -52,5 +52,9 @@ blocks:
         text: Vestibulum ante ipsum primis in faucibus orci luctus et ultrices.
     color: primary
     _template: features
+  - quote: wgewgwgwegewgew
+    author: Phil Karltongewgew
+    color: tint
+    _template: testimonial
 ---
 
